@@ -200,3 +200,39 @@ c = 30
 #         val-=2
 #         print(val,end="")
 #     print()
+
+
+
+
+# for i in range(5):
+#     for j in range(5):
+#         if(i==0 or i==4 or j==0 or j==4):
+#             print("*",end="")
+#         else:
+#             print(" ",end="")
+#     print()
+
+
+
+
+
+# for i in range(7):
+#     for j in range(7):
+#         if(i==0 or i==6 or j==0 or j==6):
+#             print("*",end="")
+#         elif(i==j or 6-i==j):
+#             print("*",end="")
+#         else:
+#             print(" ",end="")
+#     print()
+
+
+
+
+
+# for i in range(1,5):
+#     for j in range(5-i):
+#         print(" ",end="")
+#     for k in range(i*2-1):
+#         print("*",end="")
+#     print()
