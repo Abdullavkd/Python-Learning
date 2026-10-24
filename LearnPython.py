@@ -236,3 +236,32 @@ c = 30
 #     for k in range(i*2-1):
 #         print("*",end="")
 #     print()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# num=0
+# for i in range(5):
+#     for j in range(i):
+#         num+=1
+#         print(num,end="")
+#     print()
+
+
+
+
+
+# for i in range(1,9):
+#     for j in range(1,i+1):
+#         print(i*j,end=" ")
+#     print()
