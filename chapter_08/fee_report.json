@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Abdulla",
+    "total_fee": 15000,
+    "paid": 15000,
+    "pending": 0,
+    "status": "Fully Paid"
+  },
+  {
+    "name": "Muhammed",
+    "total_fee": 12000,
+    "paid": 8000,
+    "pending": 4000,
+    "status": "Payment Pending"
+  },
+  {
+    "name": "Ali",
+    "total_fee": 18000,
+    "paid": 18000,
+    "pending": 0,
+    "status": "Fully Paid"
+  },
+  {
+    "name": "Aisha",
+    "total_fee": 10000,
+    "paid": 0,
+    "pending": 10000,
+    "status": "Payment Pending"
+  },
+  {
+    "name": "Fatima",
+    "total_fee": 14000,
+    "paid": 7000,
+    "pending": 7000,
+    "status": "Payment Pending"
+  }
+]

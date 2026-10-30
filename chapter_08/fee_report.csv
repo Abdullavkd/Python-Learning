@@ -1,0 +1,6 @@
+name,total_fee,paid,pending,status
+Abdulla,15000,15000,0,Fully Paid
+Muhammed,12000,8000,4000,Payment Pending
+Ali,18000,18000,0,Fully Paid
+Aisha,10000,0,10000,Payment Pending
+Fatima,14000,7000,7000,Payment Pending
